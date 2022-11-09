@@ -4,7 +4,7 @@
 2. It’s a fun beginner JavaScript project to do to liven up your user experience
 3. Learn more about using random, functions, and event listeners.
 
-Visit this site for more: [visit-site](http://verdant-side.surge.sh)
+Visit this site for see how it works: [visit-site](http://verdant-side.surge.sh)
 
 ### Key concepts covered:
 1. Functions and if-else statements
