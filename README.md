@@ -4,6 +4,13 @@
 2. It’s a fun beginner JavaScript project to do to liven up your user experience
 3. Learn more about using random, functions, and event listeners.
 
+Visit this site for more: [visit-site](verdant-side.surge.sh)
+
+### Key concepts covered:
+1. Functions and if-else statements
+2. Random
+3. Event listeners
+
 ## Document.getElementById()
 * The Document method `getElementById()` returns an Element object representing the element whose id property matches the specified string. 
 * Since element IDs are required to be unique if specified, they're a useful way to get access to a specific element quickly.
@@ -112,6 +119,21 @@ A boolean value that hints to the user agent to use a compatible graphics adapte
 * More precisely, `innerWidth` returns the width of the window's layout **viewport**. The interior height of the window—the height of the layout viewport—can be obtained from the innerHeight property.
 >> #### Layout viewport
 >> The layout viewport is the viewport into which the browser draws a web page. Essentially, it represents what is available to be seen, while the visual viewport represents what is currently visible on the user's display device.
+
+### Math.ceil()
+* The Math.ceil() function always rounds up and returns the smaller integer greater than or equal to a given number. `Math.ceil(x)`
+
+### Math.round()
+* The Math.round() function returns the value of a number rounded to the nearest integer. `Math.round(x)`
+
+### Math.floor()
+* The Math.floor() function always rounds down and returns the largest integer less than or equal to a given number.
+
+### Math.random()
+* The Math.random() function returns a floating-point, pseudo-random number that's greater than or equal to 0 and less than 1, with approximately uniform distribution over that range — which you can then scale to your desired range. The implementation selects the initial seed to the random number generation algorithm; it cannot be chosen or reset by the user.
+
+
+
 
 
 
