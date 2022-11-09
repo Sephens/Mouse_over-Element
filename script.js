@@ -3,6 +3,8 @@ var canvas = document.getElementById("canvas");
 var c = canvas.getContext("2d");
 var tx = window.innerWidth;
 var ty = window.innerHeight;
+// canvas.width = 600;
+// canvas.height = 600;
 canvas.width = tx;
 canvas.height = ty;
 //c.lineWidth= 5;
@@ -19,6 +21,8 @@ addEventListener("mousemove", function() {
 
 var grav = 0.99;
 c.strokeWidth=5;
+
+//generating a random rgb color
 function randomColor() {
   return (
     "rgba(" +

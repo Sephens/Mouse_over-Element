@@ -1,3 +1,9 @@
+# Mouseover Element
+![Image](assets/img1.png)
+1. You’ll see how JavaScript functions work and practice your JavaScript logic
+2. It’s a fun beginner JavaScript project to do to liven up your user experience
+3. Learn more about using random, functions, and event listeners.
+
 ## Document.getElementById()
 * The Document method `getElementById()` returns an Element object representing the element whose id property matches the specified string. 
 * Since element IDs are required to be unique if specified, they're a useful way to get access to a specific element quickly.
@@ -100,5 +106,14 @@ A boolean value that hints to the user agent to use a compatible graphics adapte
 `WebGL2RenderingContext`for `"webgl2"` or
 `ImageBitmapRenderingContext` for `"bitmaprenderer"`.
 * If the contextType doesn't match a possible drawing context, or differs from the first contextType requested, null is returned.
+
+## window.innerWidth;
+* The *read-only Window property* `innerWidth` returns the interior width of the window in pixels. This includes the width of the vertical scroll bar, if one is present.
+* More precisely, `innerWidth` returns the width of the window's layout **viewport**. The interior height of the window—the height of the layout viewport—can be obtained from the innerHeight property.
+>> #### Layout viewport
+>> The layout viewport is the viewport into which the browser draws a web page. Essentially, it represents what is available to be seen, while the visual viewport represents what is currently visible on the user's display device.
+
+
+
 
 

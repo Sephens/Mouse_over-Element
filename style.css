@@ -3,3 +3,7 @@ body{
     background-color: azure;
     overflow: hidden;
 }
+
+#canvas{
+    background-color: rgb(142, 167, 144);
+}
